@@ -1,0 +1,3 @@
+/root/CLionProjects/asalsayi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/root/CLionProjects/asalsayi/cmake-build-debug/CMakeFiles/asalsayi.dir
+/root/CLionProjects/asalsayi/cmake-build-debug/CMakeFiles/edit_cache.dir
